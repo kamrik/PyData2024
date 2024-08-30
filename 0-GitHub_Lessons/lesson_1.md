@@ -81,7 +81,7 @@ Cloning a repository means making a copy of a remote repository to your local ma
 The process explained above is depicted in the image below:
 
 <p align="center">
-      <img src="./assets/clone.png" alt="Cloning a repository" width="250" hight="250"/>
+      <img src="./assets/clone.png" alt="Cloning a repository" width="300" hight="300"/>
 </p>
 
 Notes: 
