@@ -20,7 +20,7 @@ python -m venv ./.comp3122
 
 # the first . is the current directory
 ```
-> Note: I use . (dot )before virtual environment names to remember that they are related to virtual envs. This is optional, but it’s a good practice to make names easily recognizable. In Linux the dot at the beginning of a file or directory name makes it hidden.
+> Note: I use . (dot) before virtual environment names to remember that they are related to virtual envs. This is optional, but it’s a good practice to make names easily recognizable. In Linux the dot at the beginning of a file or directory name makes it hidden.
 
 To activate and enter the environment, run `source ./.comp3122/bin/activate` on mac or `.\.comp3122\Scripts\activate`on windows in your working directory. To deactivate the environment, either run `deactivate` or exit the terminal. Note that every time you want to work on the labs, you should rerun activations commands mentioned above.
 
