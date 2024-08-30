@@ -72,9 +72,9 @@ Cloning a repository means making a copy of a remote repository to your local ma
      ```bash
      git clone <repository-url>
      ```
-   - Replace `<repository-url>` with the URL you copied. For example:
+   - Replace `<repository-url>` with the URL you copied. For example to clone the course repository, you would type:
      ```bash
-     git clone https://github.com/username/course-repo.git
+     git clone https://github.com/kamrik/PyData2024.git
      ```
    - Press Enter. This will create a local copy of the repository on your computer.
 
