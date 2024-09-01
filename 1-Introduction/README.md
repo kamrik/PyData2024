@@ -8,19 +8,18 @@ You can run the notebooks in your browser using Jupyter Lite. Click on the follo
 
 ## Run Notebooks Locally in your computer
 
-- Make a new direcotry such as COMP3122
-- create a virtual environment in the directory. [Link](setup_instruction.md)
+1. Make a new direcotry such as COMP3122
+2. create a virtual environment in the directory. [Link](setup_instruction.md)
 ```bash
 $ python -m venv ./.comp3122
 ```
-- Clone the repository in the directory. [Link](../0-GitHub_Lessons/lesson_1.md)
+3. Clone the repository in the directory. [Link](../0-GitHub_Lessons/lesson_1.md)
 ```bash
 git clone https://github.com/kamrik/PyData2024.git
 ```
-- Navigae to the cloned repository and open the jupyter notebook. [Link](jupyter_locally.md)
+4. Navigae to the cloned repository and open the jupyter notebook. [Link](jupyter_locally.md)
 ```bash
 cd PyData2024
-```
-```bash
 jupyter notebook
 ```
+
