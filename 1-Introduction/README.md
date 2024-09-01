@@ -1,28 +1,26 @@
-# Run Labs in Jupyter Notebook 
+## Run Notebooks in Your Browser
 
-Make sure your virtual environment is installed correctly (as per the [setup instructions](setup_instruction.md)). You can use one of the following methods to run the labs:
+### Jupyter Lite
+You can run the notebooks in your browser using Jupyter Lite. Click on the following button to open the notebooks in Jupyter Lite:
 
-## VS Code
-You can open the notebooks in VS Code if you install the required extensions. You get some prompts to install the required extensions when you open the notebook for the first time. If you don't see the prompt, you can install the required extensions manually.
+[![Launch JupyterLite JupyterLab](https://img.shields.io/badge/Launch-JupyterLite-blue?logo=jupyter&logoColor=white)](https://jupyterlite.github.io/demo/lab/index.html)
 
-## Jupyter
-If you wish to run the notebook locally with Jupyter run `pip install notebook` (in the virtual environment) to install Jupyter notebook. Then `cd` to the working directory and run `jupyter notebook`.
 
-This should automatically launch a notebook server at `http://localhost:8888`. If everything worked correctly, you should see all the files and sub directories in the current directory.
+## Run Notebooks Locally in your computer
 
-Note: If you are using Anaconda to create virtual environment you can skip this step as Jupyter is already installed.
-
-## Anaconda
-If you are using Anaconda, you can run the following command to open the notebook:
-
+- Make a new direcotry such as COMP3122
+- create a virtual environment in the directory. [Link](setup_instruction.md)
+```bash
+$ python -m venv ./.comp3122
+```
+- Clone the repository in the directory. [Link](../0-GitHub_Lessons/lesson_1.md)
+```bash
+git clone https://github.com/kamrik/PyData2024.git
+```
+- Navigae to the cloned repository and open the jupyter notebook. [Link](jupyter_locally.md)
+```bash
+cd PyData2024
+```
 ```bash
 jupyter notebook
 ```
-
-## Google Colab
-If you wish to run the notebook in Google Colab, you can upload the notebook to Google Colab. You can also connect your Google Drive to Google Colab and run the notebook directly from Google Drive. 
-
-
-
-
-
