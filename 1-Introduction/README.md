@@ -8,7 +8,7 @@ You can run the notebooks in your browser using Jupyter Lite. Click on the follo
 
 ### 2. Run Jupyter Notebooks Locally
 
-Watch this [video](./assets/Jupyter_venv_in_VSCode.mkv) to create a jupyter notebook in VS Code and run it locally in a virtual environment.
+Watch this [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=sharing) to create a jupyter notebook in VS Code and run it locally in a virtual environment.
 
 **Note:** To read the details about virtual environment in this [Link](setup_instruction.md).
 
