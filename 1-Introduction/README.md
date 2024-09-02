@@ -10,16 +10,21 @@ You can run the notebooks in your browser using Jupyter Lite. Click on the follo
 
 Watch this [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=sharing) to create a jupyter notebook in VS Code and run it locally in a virtual environment.
 
-**Note:** To read the details about virtual environment in this [Link](setup_instruction.md).
+**Note:** Read the details about virtual environment in this [Link](setup_instruction.md).
 
 
 ## Cloning the Course Repository in Your Local Machine
-Clone the repository in the directory. [Link](../0-GitHub_Lessons/lesson_1.md)
+
+Clone the repository in the directory. 
 ```bash
 git clone https://github.com/kamrik/PyData2024.git
 ```
-4. Navigae to the cloned repository and open the notebooks is VS Code. 
+
+Then navigae to the cloned repository and open the notebooks is VS Code. 
 ```bash
 cd PyData2024
 ```
+
+**Note:** Read the details about repo cloning in this [Link](../0-GitHub_Lessons/lesson_1.md).
+
 
