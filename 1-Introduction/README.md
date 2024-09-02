@@ -6,14 +6,14 @@ You can run the notebooks in your browser using `Jupyter Lite`. Click on the fol
 [![Launch JupyterLite JupyterLab](https://img.shields.io/badge/Launch-JupyterLite-blue?logo=jupyter&logoColor=white)](https://jupyterlite.github.io/demo/lab/index.html)
 
 
-### 2. Run locally in your machine
+### 2. Run locally on your machine
 
 Watch this [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=sharing) to create a jupyter notebook in VS Code and run it locally in a virtual environment.
 
-**Note:** Read the details about virtual environment in this [Link](setup_instruction.md).
+**Note:** A detailed guide on how to create a virtual environment without VSCode is in [setup_instruction.md](setup_instruction.md)
 
 
-## Cloning the course repository in your local machine
+## Cloning the course repository on your local machine
 
 Clone the repository in the directory. 
 ```bash
