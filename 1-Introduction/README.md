@@ -1,12 +1,12 @@
-## Run Notebooks in Your Browser
+## Run Jupyter Notebooks
 
-### 1. Jupyter Lite
-You can run the notebooks in your browser using Jupyter Lite. Click on the following button to open the notebooks in Jupyter Lite:
+### 1. Run in Your Browser
+You can run the notebooks in your browser using `Jupyter Lite`. Click on the following button to open the notebooks in Jupyter Lite:
 
 [![Launch JupyterLite JupyterLab](https://img.shields.io/badge/Launch-JupyterLite-blue?logo=jupyter&logoColor=white)](https://jupyterlite.github.io/demo/lab/index.html)
 
 
-### 2. Run Jupyter Notebooks Locally
+### 2. Run locally
 
 Watch this [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=sharing) to create a jupyter notebook in VS Code and run it locally in a virtual environment.
 
