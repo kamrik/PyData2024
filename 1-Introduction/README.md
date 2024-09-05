@@ -1,7 +1,7 @@
 ## Run Jupyter Notebooks
 
 ### 1. Run in GBLearn
-You can run the Jupyter notebooks in GBLearn. To do this, follow this [instruction](./gblearn%20python%20jupyter%20notebook%20setup.pdf)
+You can run the Jupyter notebooks in GBLearn. To do this, follow this [instruction](./gblearn%20python%20jupyter%20notebook%20setup.pdf).
 
 
 ### 2. Run locally on your machine
@@ -54,9 +54,11 @@ python -m ipykernel install --user --name=myenv
 Replace myenv with the name of your virtual environment. This command registers the virtual environment as a Jupyter kernel.
 
 
-**Note:** Watch this [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=sharing) to create a jupyter notebook in VS Code and run it locally in a virtual environment.
+**Additional Notes:** 
 
-**Note:** A detailed guide on how to create a virtual environment without VSCode is in [setup_instruction.md](setup_instruction.md)
+Watch this [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=sharing) to create a jupyter notebook in VS Code and run it locally in a virtual environment.
+
+A detailed guide on how to create a virtual environment without VSCode is in [setup_instruction.md](setup_instruction.md)
 
 
 ## Cloning the course repository on your local machine
