@@ -1,9 +1,7 @@
 ## Run Jupyter Notebooks
 
-### 1. Run in your browser
-You can run the notebooks in your browser using `Jupyter Lite`. Click on the following button to open the notebooks in Jupyter Lite:
-
-[![Launch JupyterLite JupyterLab](https://img.shields.io/badge/Launch-JupyterLite-blue?logo=jupyter&logoColor=white)](https://jupyterlite.github.io/demo/lab/index.html)
+### 1. Run in GBLearn
+You can run the Jupyter notebooks in GBLearn. To do this, follow this [instruction](./gblearn%20python%20jupyter%20notebook%20setup.pdf
 
 
 ### 2. Run locally on your machine
