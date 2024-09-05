@@ -1,7 +1,7 @@
 ## Run Jupyter Notebooks
 
 ### 1. Run in GBLearn
-You can run the Jupyter notebooks in GBLearn. To do this, follow this [instruction](./gblearn%20python%20jupyter%20notebook%20setup.pdf
+You can run the Jupyter notebooks in GBLearn. To do this, follow this [instruction](./gblearn%20python%20jupyter%20notebook%20setup.pdf)
 
 
 ### 2. Run locally on your machine
