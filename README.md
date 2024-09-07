@@ -11,3 +11,5 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
  - Git and GitHub Tutorial by Kevin Stratvert - [video on YouTube](https://www.youtube.com/watch?v=tRZGeaHPoaw)
  - Creating a Python virtual environment in command line - [1-Introduction/setup_instruction.md](1-Introduction/setup_instruction.md)
  - Creating a Python virtual environment in VSCode UI - [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=drive_link)
+## Useful links
+ - [r/learnpython](https://www.reddit.com/r/learnpython/) - Reddit community for Python learners
