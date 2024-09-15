@@ -17,3 +17,4 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
  - Creating a Python virtual environment in VSCode UI - [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=drive_link)
 ## Useful links
  - [r/learnpython](https://www.reddit.com/r/learnpython/) - Reddit community for Python learners
+ - [Python Quick Reference](https://nbviewer.org/github/justmarkham/python-reference/blob/master/reference.ipynb)
