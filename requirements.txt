@@ -1,3 +1,4 @@
+nbconvert
 numpy
 matplotlib
 pandas
