@@ -17,6 +17,7 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
    - Git & GitHub for Poets - [YouTube playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - a longer tutorial
  - Creating a Python virtual environment in command line - [1-Introduction/setup_instruction.md](1-Introduction/setup_instruction.md)
  - Creating a Python virtual environment in VSCode UI - [video](https://drive.google.com/file/d/1la5G4q_cjCHWU4myUb5CH_rpaXdbKCG7/view?usp=drive_link)
+ - Creating a Python environment on GBLearn - [pdf](<1-Introduction/gblearn python jupyter notebook setup.pdf>)
 
 ## Other links
  - [Python Quick Reference](https://nbviewer.org/github/justmarkham/python-reference/blob/master/reference.ipynb) (ipynb)
