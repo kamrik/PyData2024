@@ -1,6 +1,7 @@
 nbconvert
 numpy
 matplotlib
+seaborn
 pandas
 scikit-learn
 
